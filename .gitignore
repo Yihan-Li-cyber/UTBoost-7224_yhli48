@@ -1,1 +1,6 @@
 UTGenerator/playground/
+UTGenerator/venv/
+.venv
+# Python bytecode
+*.pyc
+__pycache__/
